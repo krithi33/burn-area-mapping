@@ -63,6 +63,8 @@ B12 at 2190nm is more sensitive to moisture and char than B11 at 1610nm. USGS re
 **Why RdNBR?**  
 Standard dNBR systematically underestimates severity in sparse vegetation (low pre-fire NBR baseline). RdNBR normalises by pre-fire biomass density, making burn severity estimates comparable across forest and shrubland ([Miller & Thode 2007](https://doi.org/10.1016/j.rse.2006.08.027)).
 
+![dNBR Distribution](outputs/dnbr_distribution.png)
+
 ### 3. Threshold Classification
 
 USGS burn severity thresholds (Key & Benson 2006):
