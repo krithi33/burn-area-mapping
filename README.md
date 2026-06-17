@@ -104,6 +104,10 @@ Key hyperparameter choices:
 | Method agreement | — | 77.1% |
 | Decision threshold | dNBR ≥ 0.27 | prob ≥ 0.255 |
 
+![Method Comparison](outputs/method_comparison.png)
+
+![Feature Importance](outputs/figures/feature_importance.png)
+
 **Spatial validation against CAL FIRE official perimeter: ~98% of the perimeter falls within the predicted burn boundary.**
 
 ### Key Findings
@@ -235,6 +239,6 @@ The dual-method comparison (rule-based vs ML) mirrors decision frameworks used i
 
 **KRITHI M S**  
 ML practitioner | Geospatial AI | Climate Tech  
-[LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://linkedin.com/in/krithims) · [GitHub](https://github.com/krithi33)
 
 > Built as a portfolio project demonstrating remote sensing + ML skills for Earth Observation roles.
