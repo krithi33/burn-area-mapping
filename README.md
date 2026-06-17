@@ -78,6 +78,8 @@ USGS burn severity thresholds (Key & Benson 2006):
 | 0.44 – 0.66 | Moderate-High Severity |
 | > 0.66 | High Severity |
 
+![Burn Severity Map](outputs/burn_severity_map.png)
+
 ### 4. Random Forest Classifier
 
 **Features (16):** Pre-fire NBR, NDVI, NDWI, BAI, B4, B8, B12 + post-fire equivalents + dNBR + RdNBR  
